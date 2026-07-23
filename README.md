@@ -5,6 +5,7 @@ I'm [Prashant](https://github.com/prashantStha308/), a Web developer based in Ne
 I'm a visual art and design enthusiast and I craft beautiful UI and user experience.
 
 My main tech stack is the MERN stack with tailwindcss and framer motion as the styling and animation libraries.
+
 For quick designs, I use Figma as my primary software with drawing softwares like Ibis Paint X to build up raster designs.
 
 I've got a bunch of projects, but my favourite is my [Personal Art Portfolio](https://github.com/prashantStha308/art_portfolio)
