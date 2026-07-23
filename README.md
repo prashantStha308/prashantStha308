@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-I'm [Prashant](https://github.com/prashantStha308/), a Web developer based in Nepal.
 
-I'm a visual art and design enthusiast and I craft beautiful UI and user experience.
+I'm [Prashant](https://github.com/prashantStha308/), a web developer based in Nepal.
 
-My main tech stack is the MERN stack with tailwindcss and framer motion as the styling and animation libraries.
+I'm a visual art and design enthusiast, and I craft beautiful UIs and user experiences.
 
-For quick designs, I use Figma as my primary software with drawing softwares like Ibis Paint X to build up raster designs.
+My main tech stack is the MERN stack, with Tailwind CSS and Framer Motion as my styling and animation libraries.
 
-I've got a bunch of projects, but my favourite is my [Personal Art Portfolio](https://github.com/prashantStha308/art_portfolio)
+For quick designs, I use Figma as my primary software, along with drawing software like Ibis Paint X to build up raster designs.
+
+I've got a bunch of projects, but my favorite is my [Personal Art Portfolio](https://github.com/prashantStha308/art_portfolio).
 
 <!--
 **prashantStha308/prashantStha308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
