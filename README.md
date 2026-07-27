@@ -11,6 +11,8 @@ For quick designs, I use Figma as my primary software, along with drawing softwa
 
 I've got a bunch of projects, but my favorite is my [Personal Art Portfolio](https://github.com/prashantStha308/art_portfolio).
 
+### Note
+You might notice that some of the repo's description have \[Include\] prefixed to them. This is simply done to include those projects in my portfolio website, please ignore them. Thank you.
 <!--
 **prashantStha308/prashantStha308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
